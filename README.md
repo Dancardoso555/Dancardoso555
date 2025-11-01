@@ -22,8 +22,7 @@
 ## 🌟 Sobre mim
 
 🎯 Busco aprimorar minhas habilidades e adquirir experiência na área de desenvolvimento.  
-💬 Tenho interesse em **back-end**, mas gosto de aprender em todas as áreas da tecnologia.  
-🧠 Atualmente estudando **Java, PHP **. 
+💬 Tenho interesse em **back-end**, mas gosto de aprender em todas as áreas da tecnologia.   
 📫 Contato: **danielscardoso07@gmail.com**
 
 ---
